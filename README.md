@@ -30,6 +30,8 @@ A scalable React + TypeScript + TailwindCSS design system for enterprise applica
 
 ## Usage
 
+# commands 
+
 - npm start      
 
 - npm run build  
