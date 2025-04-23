@@ -1,4 +1,74 @@
-# Getting Started with Create React App
+# My Design System  
+A scalable React + TypeScript + TailwindCSS design system for enterprise applications, featuring a full Storybook documentation suite.
+## Table of Contents
+1. [Built With](#built-with)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Folder Structure](#folder-structure)
+6. [Storybook Preview](#storybook-preview)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Contact](#contact)
+
+## Badges
+![Build Status](https://img.shields.io/github/actions/workflow/status/your/repo/ci.yml)
+![Coverage](https://img.shields.io/codecov/c/github/your/repo)
+[![Storybook](https://img.shields.io/badge/storybook-live-blue.svg)](https://your-project.chromatic.com)
+
+
+## Built With
+- React
+- TypeScript
+- TailwindCSS
+- Storybook
+
+## Installation
+- git clone https://github.com/your/repo.git
+- cd repo
+- npm install
+
+## Usage
+# Runs the app in development mode
+- npm start      
+# Builds for production
+- npm run build  
+ # Launches Storybook at http://localhost:6006
+- npm run storybook 
+
+
+## Features
+- **Typography**: Headings H1–H6, paragraph, labels, captions, helper text  
+- **Data Entry**: TextInput, Checkbox, with error/disabled/helper states  
+- **Feedback**: Toast (auto-dismiss/close), AlertBanner (dismissible)  
+- **Theming**: Light/dark mode support  
+- **Accessibility**: ARIA roles, keyboard navigation  
+
+## Folder Structure
+src/  
+├─ components/  
+│  ├─ Typography/  
+│  ├─ TextInput/  
+│  ├─ Toast/  
+│  └─ AlertBanner/  
+├─ tokens/  
+│  ├─ colors.ts  
+│  └─ typography.ts  
+└─ stories/  
+   └─ ...  
+
+
+---
+
+## ## Storybook Preview  
+Link directly to your deployed Storybook, so reviewers can interact with components live :contentReference[oaicite:13]{index=13}.
+
+```markdown
+## Storybook Preview
+🔗 https://6807280b26f33c9645aee56b-oxdncqdfjp.chromatic.com/
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -43,4 +113,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/). -->
