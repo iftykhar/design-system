@@ -27,16 +27,33 @@ A scalable React + TypeScript + TailwindCSS design system for enterprise applica
 - git clone https://github.com/your/repo.git
 - cd repo
 - npm install
-
 ## Usage
 
-# commands 
+### Getting Started
+```bash
+# Start the development server
+npm start
 
-- npm start      
+# Build for production
+npm run build
 
-- npm run build  
+# Launch Storybook documentation
+npm run storybook
+```
 
-- npm run storybook 
+Import and use components:
+```tsx
+import { Button, TextInput } from '@your-org/design-system'
+
+function App() {
+    return (
+        <div>
+            <TextInput placeholder="Enter text" />
+            <Button>Click me</Button>
+        </div>
+    )
+}
+```
 
 
 ## Features
