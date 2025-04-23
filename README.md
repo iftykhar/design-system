@@ -29,11 +29,11 @@ A scalable React + TypeScript + TailwindCSS design system for enterprise applica
 - npm install
 
 ## Usage
-# Runs the app in development mode
+
 - npm start      
-# Builds for production
+
 - npm run build  
- # Launches Storybook at http://localhost:6006
+
 - npm run storybook 
 
 
