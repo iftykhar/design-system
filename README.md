@@ -60,8 +60,8 @@ src/
 
 ---
 
-## ## Storybook Preview  
-Link directly to your deployed Storybook, so reviewers can interact with components live :contentReference[oaicite:13]{index=13}.
+## Storybook Preview  
+Link directly to your deployed Storybook, so reviewers can interact with components live.
 
 ```markdown
 ## Storybook Preview
