@@ -41,19 +41,7 @@ npm run build
 npm run storybook
 ```
 
-Import and use components:
-```tsx
-import { Button, TextInput } from '@your-org/design-system'
 
-function App() {
-    return (
-        <div>
-            <TextInput placeholder="Enter text" />
-            <Button>Click me</Button>
-        </div>
-    )
-}
-```
 
 
 ## Features
