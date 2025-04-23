@@ -60,10 +60,7 @@ src/
 
 ---
 
-## Storybook Preview  
-Link directly to your deployed Storybook, so reviewers can interact with components live.
 
-```markdown
 ## Storybook Preview
 🔗 https://6807280b26f33c9645aee56b-oxdncqdfjp.chromatic.com/
 
