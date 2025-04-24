@@ -7,9 +7,7 @@ A scalable React + TypeScript + TailwindCSS design system for enterprise applica
 4. [Features](#features)
 5. [Folder Structure](#folder-structure)
 6. [Storybook Preview](#storybook-preview)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+
 
 ## Badges
 ![Build Status](https://img.shields.io/github/actions/workflow/status/your/repo/ci.yml)
