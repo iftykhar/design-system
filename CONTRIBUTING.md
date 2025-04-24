@@ -1,6 +1,6 @@
 # Contributing to My Design System
 
-Thank you for your interest in contributing to My Design System! By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). These guidelines are based on GitHub’s recommendations and examples from prominent open-source projects :contentReference[oaicite:0]{index=0}.
+Thank you for your interest in contributing to My Design System! By participating, you agree to abide by our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct). These guidelines are based on GitHub’s recommendations and examples from prominent open-source projects .
 
 ---
 
@@ -51,11 +51,12 @@ We aim for **readable**, **consistent**, and **maintainable** code:
 Use [Conventional Commits](https://www.conventionalcommits.org/) style:
 
 
- # Optional longer description 
+## Optional longer description 
  
-# Optional issue references, e.g. Closes #123 ```
+## Optional issue references, e.g. Closes #123 
+```
 
-## Types include:
+Types include:
 
 feat — a new feature
 
@@ -70,6 +71,7 @@ refactor — code change that neither fixes a bug nor adds a feature
 test — adding missing tests or correcting existing tests
 
 chore — build process or auxiliary tools
+```
 
 ## Submitting Pull Requests
 Fork the repo and create a branch:
