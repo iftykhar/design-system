@@ -1,5 +1,12 @@
-# My Design System  
-A scalable React + TypeScript + TailwindCSS design system for enterprise applications, featuring a full Storybook documentation suite.
+<header style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 2rem;">
+  <img src="assets/logo.svg" alt="Design System Logo" width="48" height="48" />
+  <div style="display: inline-block; vertical-align: middle; margin-left: 1rem;">
+    <h1 style="margin:0; font-size:2rem;">My Design System</h1>
+    <p style="margin:0.25rem 0 0; color:#555;">
+      A reusable UI toolkit built with React, TypeScript, and TailwindCSS.
+    </p>
+  </div>
+</header>
 ## Table of Contents
 1. [Built With](#built-with)
 2. [Installation](#installation)
