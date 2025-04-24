@@ -77,8 +77,6 @@ chore — build process or auxiliary tools
 Fork the repo and create a branch:
 
 ```bash
-Copy
-Edit
 git checkout -b feat/your-feature
 ```
 
@@ -86,7 +84,7 @@ Commit your changes in logical chunks and write descriptive commit messages.
 
 Rebase onto the latest main to avoid merge conflicts.
 
-Open a pull request against main and include:
+## Open a pull request against main and include:
 
 A link to any related issue
 
