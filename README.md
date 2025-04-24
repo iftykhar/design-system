@@ -67,7 +67,7 @@ src/
 
 
 ## Storybook Preview
-🔗 https://6807280b26f33c9645aee56b-oxdncqdfjp.chromatic.com/
+🔗 https://6807280b26f33c9645aee56b-xsgzskrlqs.chromatic.com/
 
 
 ## Storybook 
