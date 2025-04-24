@@ -23,13 +23,13 @@ A scalable React + TypeScript + TailwindCSS design system for enterprise applica
 
 ## Installation
 ```bash
-# clone the project first
-git clone https://github.com/iftykhar/design-systemt
+# Clone the repository
+git clone https://github.com/iftykhar/design-system.git
 
-# get into the folder
+# Move into the project directory
 cd design-system
 
-# install dependencies
+# Install dependencies
 npm install
 
 ```
