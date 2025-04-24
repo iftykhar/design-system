@@ -21,10 +21,12 @@
 
 
 ## Badges
-![Build Status](https://img.shields.io/github/actions/workflow/status/your/repo/ci.yml)
-![Coverage](https://img.shields.io/codecov/c/github/your/repo)
-[![Storybook](https://img.shields.io/badge/storybook-live-blue.svg)](https://your-project.chromatic.com)
 
+![Build](https://img.shields.io/github/actions/workflow/status/iftykhar/design-system/ci.yml?branch=main)
+![Coverage](https://img.shields.io/codecov/c/github/iftykhar/design-system?logo=codecov)
+[![Storybook](https://img.shields.io/badge/Storybook-live-orange?logo=storybook)](https://6807280b26f33c9645aee56b-xsgzskrlqs.chromatic.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18.x-61dafb.svg?logo=react)](https://reactjs.org/)
 
 ## Built With
 - React
