@@ -115,3 +115,11 @@ src/
 ### Toggle 
 
 ![Toggle-default-state](./ScreenShots/Toggle/Toggle_docs.jpeg)
+
+### FileUpload
+
+![FileUpload-default-state](./ScreenShots/Fileupload/Fileupload_default.jpeg)
+
+![FileUpload-error-state](./ScreenShots/Fileupload/Fileupload_error.jpeg)
+
+![FileUpload-disable-state](./ScreenShots/Fileupload/Fileupload_disable.jpeg)
