@@ -50,10 +50,12 @@ We aim for **readable**, **consistent**, and **maintainable** code:
 
 Use [Conventional Commits](https://www.conventionalcommits.org/) style:
 
-<type>(<scope>): <short summary>
 
-<body> # Optional longer description <footer> # Optional issue references, e.g. Closes #123 ```
-Types include:
+ # Optional longer description 
+ 
+# Optional issue references, e.g. Closes #123 ```
+
+## Types include:
 
 feat — a new feature
 
@@ -69,13 +71,15 @@ test — adding missing tests or correcting existing tests
 
 chore — build process or auxiliary tools
 
-Submitting Pull Requests
+## Submitting Pull Requests
 Fork the repo and create a branch:
 
-bash
+```bash
 Copy
 Edit
 git checkout -b feat/your-feature
+```
+
 Commit your changes in logical chunks and write descriptive commit messages.
 
 Rebase onto the latest main to avoid merge conflicts.
@@ -92,7 +96,7 @@ Any performance or backward-compatibility notes
 
 Pull requests that don’t follow these guidelines may be closed or asked for revision
 
-Code Review Process
+## Code Review Process
 Every PR will be reviewed by at least one maintainer.
 
 Reviewers may request changes; please address feedback promptly.
