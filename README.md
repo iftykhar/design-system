@@ -1,5 +1,5 @@
 <header style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 2rem;">
-  <img src="assets/logo.svg" alt="Design System Logo" width="48" height="48" />
+  <img src="./public/logo512.png" alt="Design System Logo" width="48" height="48" />
   <div style="display: inline-block; vertical-align: middle; margin-left: 1rem;">
     <h1 style="margin:0; font-size:2rem;">My Design System</h1>
     <p style="margin:0.25rem 0 0; color:#555;">
@@ -15,6 +15,9 @@
 4. [Features](#features)
 5. [Folder Structure](#folder-structure)
 6. [Storybook Preview](#storybook-preview)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Contact](#contact)
 
 
 ## Badges
@@ -81,6 +84,19 @@ src/
 
 
 ---
+
+## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started. All PRs should follow the existing code style and include storybook stories for new components.
+
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
+## Contact
+
+Iftykhar Alam – [s.m.ifty49@gmail.com](mailto:s.m.ifty49@gmail.com)  
+
+
 
 
 ## Storybook Preview
